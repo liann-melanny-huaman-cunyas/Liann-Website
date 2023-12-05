@@ -1,9 +1,9 @@
 
 const experience = () => {
   return (
-    <div>
-      
-    </div>
+    <section id="experience">
+        EXPERIENCE
+    </section>
   )
 }
 

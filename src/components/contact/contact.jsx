@@ -1,11 +1,9 @@
 
 const contact = () => {
   return (
-    <div>
-      <p>
+      <section id="contact">
         CONTACT
-      </p>
-    </div>
+      </section>
   )
 }
 

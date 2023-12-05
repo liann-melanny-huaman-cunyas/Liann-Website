@@ -7,7 +7,7 @@ const header = () => {
     return (
         <header>
             <div className="container header__container">
-                <h5>Hola, Yo Soy</h5>
+                <h5>Hola, Soy</h5>
                 <h1>LIANN MELANNY</h1>
                 <h5 className="text-ligth">
                     Desarrolladora Fullstack
@@ -16,7 +16,7 @@ const header = () => {
                 <Socials/>
 
                 <div className='me'>
-                    <img src={PhotoCV} alt="me"/>
+                    <img src={PhotoCV} alt="me__photo"/>
                 </div>
 
                 <a href="#contact" className='scroll__down'>Desplazar</a>

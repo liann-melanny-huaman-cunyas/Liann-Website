@@ -1,10 +1,8 @@
 const testimonials = () => {
     return (
-        <div>
-            <p>
-            TESTIMONIALS
-            </p>
-        </div>
+            <section id="testimonials">
+                TESTIMONIALS
+            </section>
     )
 }
 

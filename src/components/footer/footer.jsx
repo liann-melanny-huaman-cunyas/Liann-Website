@@ -1,10 +1,8 @@
 const footer = () => {
     return (
-        <div>
-            <p>
+            <section id="footer">
                 FOOTER
-            </p>
-        </div>
+            </section>
     )
 }
 
